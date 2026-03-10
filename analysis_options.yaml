@@ -1,0 +1,19 @@
+include: package:flutter_lints/flutter.yaml
+
+analyzer:
+  language:
+    strict-casts: true
+    strict-inference: true
+    strict-raw-types: true
+
+linter:
+  rules:
+    # Some important rules for professional standards
+    - avoid_print
+    - prefer_const_constructors
+    - prefer_final_fields
+    - prefer_if_null_operators
+    - unnecessary_const
+    - unnecessary_new
+    - camel_case_types
+    - slash_for_doc_comments

@@ -1,0 +1,17 @@
+name: date_snap_example
+description: An example application for the date_snap package.
+version: 1.0.0
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  # This line tells the example to use your main package locally
+  date_snap:
+    path: ../
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
