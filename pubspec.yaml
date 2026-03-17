@@ -1,11 +1,12 @@
 name: date_snap
 
-description: A lightweight Flutter package for localized date formatting and relative time calculation. Supports English, Bengali, and Arabic.
+description: A lightweight Flutter package for localized date formatting and relative time calculation. Supports English & Bengali.
 
-version: 1.0.0
+version: 1.0.1
 
 homepage: https://github.com/oxfaysal/date_snap
-issues: https://github.com/oxfaysal/date_snap/issues
+repository: https://github.com/oxfaysal/date_snap
+issue_tracker: https://github.com/oxfaysal/date_snap/issues
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
@@ -19,3 +20,8 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^5.0.0
+
+
+
+flutter:
+  uses-material-design: true  

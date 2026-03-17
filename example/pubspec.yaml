@@ -1,6 +1,6 @@
 name: date_snap_example
 description: An example application for the date_snap package.
-version: 1.0.0
+version: 1.0.1
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
