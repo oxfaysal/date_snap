@@ -26,7 +26,6 @@
 </p>
 
 
-
 ## 📦 Installation
 
 Add `date_snap` to your `pubspec.yaml`:
